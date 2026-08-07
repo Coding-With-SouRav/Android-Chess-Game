@@ -4,6 +4,3 @@
 # Demo Play 
  https://coding-with-sourav.github.io/Android-Chess-Game/
 
-
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-07 05:20 UTC
